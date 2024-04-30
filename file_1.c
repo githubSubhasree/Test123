@@ -1,3 +1,1 @@
-sample123.text
-
-this is a newly adding feature
+This is a newly adding feature
